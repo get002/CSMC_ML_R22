@@ -1,6 +1,7 @@
 # Machine Learning
 <hr/>
 # Syllabus R22
+
 ## Unit 01<br/>
 - <b>Learning :</b><br/>
   > Types of Machine Learning<br/>
