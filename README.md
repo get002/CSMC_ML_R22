@@ -1,5 +1,6 @@
 # Machine Learning
-
+<hr/>
+# Syllabus R22
 ## Unit 01<br/>
 - <b>Learning :</b><br/>
   > Types of Machine Learning<br/>
@@ -60,8 +61,8 @@
   > Bayesian Networks – Markov Random Fields<br/>
   > Hidden Markov Models – Tracking Methods<br/>
 
-
-# Machine Learning LAB
+<hr/>
+# Machine Learning Lab
 1. Write a python program to compute Central Tendency Measures: Mean, Median, Mode Measure of Dispersion: Variance, Standard Deviation
 2. Study of Python Basic Libraries such as Statistics, Math, Numpy and Scipy
 3. Study of Python Libraries for ML application such as Pandas and Matplotlib
