@@ -1,7 +1,7 @@
 # Machine Learning
 
 ## Unit 01<br/>
-- Learning :<br/>
+- <b>Learning :</b><br/>
   > Types of Machine Learning<br/>
   > Supervised Learning<br/>
   > The Brain and the Neuron<br/>
