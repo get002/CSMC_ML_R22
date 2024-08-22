@@ -56,6 +56,6 @@
   > Getting Lost Example<br/>
   > Markov Chain Monte Carlo Methods – Sampling – Proposal Distribution<br/>
   > Markov Chain Monte Carlo<br/>
-– Graphical Models<br/>
+- Graphical Models<br/>
   > Bayesian Networks – Markov Random Fields<br/>
   > Hidden Markov Models – Tracking Methods<br/>
