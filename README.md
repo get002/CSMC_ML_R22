@@ -66,7 +66,7 @@
 <hr/>
 
 # Machine Learning Lab
-1. Write a python program to compute Central Tendency Measures: Mean, Median, Mode Measure of Dispersion: Variance, Standard Deviation
+1. &#9745; Write a python program to compute Central Tendency Measures: Mean, Median, Mode Measure of Dispersion: Variance, Standard Deviation
 2. Study of Python Basic Libraries such as Statistics, Math, Numpy and Scipy
 3. Study of Python Libraries for ML application such as Pandas and Matplotlib
 4. Write a Python program to implement Simple <b> Linear Regression </b>
