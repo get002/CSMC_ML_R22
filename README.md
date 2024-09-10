@@ -6,9 +6,9 @@
 ## Unit 01<br/>
 - <b>Learning :</b><br/>
   > &#x2611; Types of Machine Learning<br/>
-  > Supervised Learning<br/>
+  > &#x2611; Supervised Learning<br/>
   > The Brain and the Neuron<br/>
-  > Design a Learning System<br/>
+  > &#x2611; Design a Learning System<br/>
   > Perspectives and Issues in Machine Learning<br/>
   > Concept Learning Task – Concept Learning as Search<br/>
   > Finding a Maximally Specific Hypothesis<br/>
