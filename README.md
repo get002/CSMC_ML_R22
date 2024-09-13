@@ -12,7 +12,7 @@
   > &#x2611; Perspectives and Issues in Machine Learning<br/>
   > &#x2611; Concept Learning Task – Concept Learning as Search<br/>
   > &#x2611; Finding a Maximally Specific Hypothesis <b>[VIDEO](https://www.youtube.com/watch?v=O6vwN74aSGY&t=10s)</b><br/>
-  > &#x2611; Version Spaces and the Candidate Elimination Algorithm <b>[VIDEO](https://www.youtube.com/watch?v=u71RrLquBIk)</b> and <b>[VIDEO](https://www.youtube.com/watch?v=O2wYwFOMQ24)</b><br/>
+  > &#x2611; Version Spaces and the Candidate Elimination Algorithm <b>[VIDEO](https://www.youtube.com/watch?v=O2wYwFOMQ24)</b><br/>
 - <b>Linear Discriminants:</b> – Perceptron – Linear Separability – Linear Regression.<br/>
 
 ## Unit 02<br/>
