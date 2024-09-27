@@ -17,12 +17,12 @@
 
 ## Unit 02<br/>
 - <b>Multi-layer Perceptron– Going Forwards – Going Backwards:</b><br/>
-  > Back Propagation Error<br/>
-  > Multi-layer Perceptron in Practice<br/>
-  > Examples of using the MLP – Overview<br/>
-  > Deriving Back-Propagation<br/>
-  > Radial Basis Functions and Splines<br/>
-  > Concepts – RBF Network<br/>
+  > &#x2611; Back Propagation Error<br/>
+  > &#x2611; Multi-layer Perceptron in Practice<br/>
+  > &#x2611; Examples of using the MLP – Overview<br/>
+  >&#x2611;  Deriving Back-Propagation<br/>
+  > &#x2611; Radial Basis Functions and Splines<br/>
+  > &#x2611; Concepts – RBF Network<br/>
   > Curse of Dimensionality<br/>
   > Interpolations and Basis Functions<br/>
 - <b>Support Vector Machines</b><br/>
