@@ -17,9 +17,9 @@
 
 ## Unit 02<br/>
 - <b>Multi-layer Perceptron– Going Forwards – Going Backwards:</b><br/>
-  > &#x2611; Back Propagation Error<br/>
+  > &#x2611; Back Propagation Error <b>[VIDEO](https://youtu.be/zAPHIAGBjwE?si=JjKLoW7zMBSTbGrI)</b><br/>
   > &#x2611; Multi-layer Perceptron in Practice<br/>
-  > &#x2611; Examples of using the MLP – Overview<br/>
+  > &#x2611; Examples of using the MLP – Overview <b>[VIDEO](https://youtu.be/tUoUdOdTkRw?si=biagliXabKqUtecz)</b><br/>
   >&#x2611;  Deriving Back-Propagation<br/>
   > &#x2611; Radial Basis Functions and Splines<br/>
   > &#x2611; Concepts – RBF Network<br/>
@@ -29,7 +29,7 @@
 
 ## Unit 03<br/>
 - <b>Learning with Trees</b><br/>
-  > &#x2611; Decision Trees <b>[VIDEO](https://youtu.be/K-oGwFoCGU0?si=HX9u8qmMnH91Qf1H)<br/>
+  > &#x2611; Decision Trees <b>[VIDEO](https://youtu.be/K-oGwFoCGU0?si=HX9u8qmMnH91Qf1H)</b><br/>
   > &#x2611; Constructing Decision Trees <b>[VIDEO](https://youtu.be/coOTEc-0OGw?si=fSvD270kAAS9k-Pp)</b><br/>
   > Classification and Regression Trees <b>[VIDEO](https://youtu.be/xyDv3DLYjfM?si=6X7ydoVnu85RsTG8)</b><br/>
   > Ensemble Learning<br/>
