@@ -23,14 +23,14 @@
   >&#x2611;  Deriving Back-Propagation<br/>
   > &#x2611; Radial Basis Functions and Splines<br/>
   > &#x2611; Concepts – RBF Network<br/>
-  > Curse of Dimensionality<br/>
+  > &#x2611; Curse of Dimensionality<br/>
   > Interpolations and Basis Functions<br/>
-- <b>Support Vector Machines</b><br/>
+- <b>&#x2611; Support Vector Machines</b><br/>
 
 ## Unit 03<br/>
 - <b>Learning with Trees</b><br/>
-  > Decision Trees<br/>
-  > Constructing Decision Trees<br/>
+  > &#x2611; Decision Trees<br/>
+  > &#x2611; Constructing Decision Trees<br/>
   > Classification and Regression Trees<br/>
   > Ensemble Learning<br/>
   > Boosting<br/>
