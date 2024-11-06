@@ -31,7 +31,7 @@
 - <b>Learning with Trees</b><br/>
   > &#x2611; Decision Trees <b>[VIDEO](https://youtu.be/K-oGwFoCGU0?si=HX9u8qmMnH91Qf1H)<br/>
   > &#x2611; Constructing Decision Trees <b>[VIDEO](https://youtu.be/coOTEc-0OGw?si=fSvD270kAAS9k-Pp)</b><br/>
-  > Classification and Regression Trees<br/>
+  > Classification and Regression Trees <b>[VIDEO](https://youtu.be/xyDv3DLYjfM?si=6X7ydoVnu85RsTG8)</b><br/>
   > Ensemble Learning<br/>
   > Boosting<br/>
   > Bagging<br/>
