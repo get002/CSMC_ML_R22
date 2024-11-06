@@ -22,7 +22,7 @@
   > &#x2611; Examples of using the MLP – Overview <b>[VIDEO](https://youtu.be/tUoUdOdTkRw?si=biagliXabKqUtecz)</b><br/>
   >&#x2611;  Deriving Back-Propagation<br/>
   > &#x2611; Radial Basis Functions and Splines<br/>
-  > &#x2611; Concepts – RBF Network<br/>
+  > &#x2611; Concepts – RBF Network <b>[VIDEO](https://youtu.be/rF4m6g46p-g?si=iO15-KIfgNkMvZGT)</b><br/>
   > &#x2611; Curse of Dimensionality<br/>
   > Interpolations and Basis Functions<br/>
 - <b>&#x2611; Support Vector Machines</b><br/>
