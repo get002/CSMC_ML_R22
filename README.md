@@ -38,7 +38,7 @@
   > Different ways to Combine Classifiers<br/>
   > Basic Statistics<br/>
   > Gaussian Mixture Models<br/>
-- <b>Nearest Neighbor Methods</b><br/>
+-  &#x2611; <b>Nearest Neighbor Methods</b><br/>
 -<b> Unsupervised Learning</b> – K means Algorithms<br/>
 
 ## Unit 04<br/>
@@ -71,8 +71,8 @@
 3. &#x2611; Study of Python Libraries for ML application such as Pandas and Matplotlib
 4. &#x2611; Write a Python program to implement Simple <b> Linear Regression </b>
 5. Implementation of <b> Multiple Linear Regression</b> for House Price Prediction using sklearn
-6. Implementation of <b> Decision tree </b>using sklearn and its parameter tuning
-7. Implementation of <b> KNN </b>using sklearn
+6. &#x2611; Implementation of <b> Decision tree </b>using sklearn and its parameter tuning
+7. &#x2611; Implementation of <b> KNN </b>using sklearn
 8. Implementation of  <b>Logistic Regression</b> using sklearn
 9. Implementation of <b> K-Means</b> Clustering
 10. Performance analysis of Classification Algorithms on a specific dataset (Mini Project)
